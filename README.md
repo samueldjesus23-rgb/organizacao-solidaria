@@ -99,6 +99,7 @@ O projeto pode seguir GitFlow:
 Exemplos de Conventional Commits:
 
 ```text
+feat: versão final da aplicação
 feat: implementar validação do formulário
 feat: adicionar localStorage
 fix: corrigir navegação responsiva
