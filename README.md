@@ -103,6 +103,7 @@ feat: versão final da aplicação
 feat: implementar validação do formulário
 feat: adicionar localStorage
 fix: corrigir navegação responsiva
+fix: corrigir caminho do arquivo JavaScript
 docs: atualizar README
 ```
 
